@@ -5,7 +5,7 @@
   "icon": "res/icon.png",
   "version": "0.1.0",
   "license": "MIT",
-  "publisher": "damian-aldair",
+  "publisher": "DamianAldair",
   "engines": {
     "vscode": "^1.54.0"
   },
