@@ -2,7 +2,9 @@
   "name": "damian-aldair--vsc-theme",
   "displayName": "Damian Aldair - VSCode Theme",
   "description": "Dark theme with Damian Aldair's preferred color scheme",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "license": "MIT",
+  "publisher": "damian-aldair",
   "engines": {
     "vscode": "^1.54.0"
   },
