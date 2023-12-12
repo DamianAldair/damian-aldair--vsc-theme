@@ -12,7 +12,7 @@ MIT © Damian Aldair
 ## Usage
 
 - Run the `Preferences: Color Theme` command.
-- Select `Monokai Night`
+- Select `Damian Aldair - Dark theme`
 
 ## Demo
 
