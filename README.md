@@ -1,16 +1,25 @@
-# damian-aldair--vsc-theme README
+# Damian Aldair - VS Code - Dark theme
 
-## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<p align="center">
+  <img src="https://github.com/DamianAldair/damian-aldair--vsc-theme/raw/HEAD/res/logo.png" width="128" alt="Logo">
+</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## License
 
-## For more information
+MIT © Damian Aldair
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Usage
 
-**Enjoy!**
+- Run the `Preferences: Color Theme` command.
+- Select `Monokai Night`
+
+## Demo
+
+![Example](https://github.com/DamianAldair/damian-aldair--vsc-theme/raw/HEAD/res/example.png)
+
+## Contributing
+
+If you found a problem, or have a feature request, please open an [issue](https://github.com/DamianAldair/damian-aldair--vsc-theme/issues) about it.
+
+

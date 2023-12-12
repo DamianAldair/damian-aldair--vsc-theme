@@ -2,6 +2,7 @@
   "name": "damian-aldair--vsc-theme",
   "displayName": "Damian Aldair - VSCode Theme",
   "description": "Dark theme with Damian Aldair's preferred color scheme",
+  "icon": "res/icon.png",
   "version": "0.1.0",
   "license": "MIT",
   "publisher": "damian-aldair",
@@ -11,6 +12,13 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "night",
+    "dark",
+    "minimalistic"
+  ],
   "contributes": {
     "themes": [
       {
@@ -19,5 +27,17 @@
         "path": "./themes/Damian Aldair - Dark theme-color-theme.json"
       }
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/DamianAldair/damian-aldair--vsc-theme/issues"
+  },
+  "author": {
+    "name": "Damian Aldair",
+    "email": "daldairgp@outlook.com",
+    "url": "https://damianaldair.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamianAldair/damian-aldair--vsc-theme.git"
   }
 }
